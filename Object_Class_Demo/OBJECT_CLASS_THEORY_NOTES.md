@@ -172,7 +172,7 @@ Avoid relying on `finalize()` in new code.
 
 ## 11. wait(), notify(), and notifyAll()
 
-These methods are related to thread communication and synchronization.
+These methods are related to thread communication and _04_synchronization.
 They are inherited from Object because every object can act as a monitor lock in Java.
 
 ### Basic meanings

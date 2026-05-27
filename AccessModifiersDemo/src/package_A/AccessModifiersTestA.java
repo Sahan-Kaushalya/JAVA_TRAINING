@@ -1,4 +1,4 @@
-package AccessModifiersDemo.package_A;
+package package_A;
 
 
 public class AccessModifiersTestA {

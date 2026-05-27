@@ -102,7 +102,7 @@ It tells Java that the value of a variable may be changed by multiple threads, a
 Flags such as `running = true` in threaded applications.
 
 ### Key point
-Volatile improves visibility between threads, but it does not replace full synchronization for complex operations.
+Volatile improves visibility between threads, but it does not replace full _04_synchronization for complex operations.
 
 ---
 

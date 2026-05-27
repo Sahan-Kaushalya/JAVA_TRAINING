@@ -1,4 +1,4 @@
-package AccessModifiersDemo.Package_B;
+package Package_B;
 
 import AccessModifiersDemo.package_A.AccessModifierDemoA;
 
